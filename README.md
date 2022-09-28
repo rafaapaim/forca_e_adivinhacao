@@ -10,7 +10,7 @@
 
 ### Objetivo
 ---
-Objetivo desde projeto é aprimorar minhas habilidades em python implementando todo conhecimento já adquirido
+Objetivo desde projeto é aprimorar minhas habilidades em python implementando todo conhecimento já adquirido em curso
 
 ### Tecnologias
 ---
